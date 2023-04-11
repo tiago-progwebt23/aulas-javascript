@@ -2,9 +2,9 @@
 
 ## Exercício 01 - Condicional IF
 
-- Crie um arquivo chamado **exercicio1.html**.
+- Crie um arquivo chamado **exercicio01.html**.
 - A partir dele, faça um script chamado **exercicio01.js** (não se esqueça de usar a pasta `js`).
-- Utilizando a função `prompt()`, faça surgir uma janela pedindo a idade e o nome do usuário.
+- Utilizando a função `prompt()`, faça surgir uma janela pedindo nome do usuário e em seguida a idade.
 - Crie uma estrutura condicional que permita avaliar as seguintes situações:
 
     - Se a idade da pessoa for maior ou igual a 18 anos e menor que 60 anos, mostre uma mensagem dizendo: *Fulano, você é uma pessoa adulta*
