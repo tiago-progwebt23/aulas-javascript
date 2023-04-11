@@ -10,3 +10,5 @@
     - Se a idade da pessoa for maior ou igual a 18 anos e menor que 60 anos, mostre uma mensagem dizendo: *Fulano, você é uma pessoa adulta*
     - Senão, se a idade for maior ou igual a 60, mostre: *Fulano, você é uma pessoa idosa.*
     - Senão, mostre: *Fulano, você é uma pessoa menor de idade.*
+
+**Dica: além do `console.log()`, utilize também a função `alert()` para exibir as mensagens em uma jalena de diálogo.**
