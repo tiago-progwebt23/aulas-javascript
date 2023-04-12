@@ -1,5 +1,19 @@
 # Exercícios JavaScript
 
+## Exercício 02 - Funções
+
+- Crie um arquivo chamado **exercicio02.html**.
+- A partir dele, faça um script chamado **exercicio02.js** (não se esqueça de usar a pasta `js`).
+- Programe no arquivo JS recursos que permitam converte um valor em dólar (ex: 1000 dólares) para um valor em reais.
+
+Para esta atividade, você **deverá** criar uma função chamada `converteMoeda` e realizar dentro dela a operação de conversão.
+
+Dica: para converter, basta pegar o valor e multiplicar pela cotação do dólar (hoje, 12/04, está em R$ 4,94)
+
+- Após a conversão, mostre o valor original em dólar e o valor convertido para reais.
+
+
+
 ## Exercício 01 - Condicional IF
 
 - Crie um arquivo chamado **exercicio01.html**.
