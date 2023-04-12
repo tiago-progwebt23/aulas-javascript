@@ -70,8 +70,10 @@ console.log("-------");
 
 function soma(valor1, valor2){
     // variável de escopo LOCAL
-    let total = valor1 + valor2;
-    return total;  
+    // let total = valor1 + valor2;
+    // return total;  
+
+    return valor1 + valor2;
 }
 
 let resultadoA = soma(10, 500);
@@ -81,6 +83,33 @@ let resultadoC = soma(8.9, 147.56);
 console.log(resultadoA);
 console.log(resultadoB);
 console.log(resultadoC);
+
+console.log("----");
+
+// Versão 1: sintaxe tradicional
+// function dobra(valor){
+//     // let resultadoDobrado = valor * 2;
+//     // return resultadoDobrado;
+
+//     return valor * 2;
+// }
+
+// Versão 2: sintaxe Arrow Function com return explícito
+// const dobra = (valor) => {
+//     return valor * 2;
+// };
+
+// Versão 3: sintaxe Arrow Function com return implícito
+/* Obs.: quando a arrow function possui somente UM
+parâmetro, você pode omitir os parênteses. E
+se a arrow function faz apenas uma única operação/retorno,
+você também pode omitir as chaves e a palavra return.
+Na prática, você consegue criar uma função de uma
+única linha com arrow function. */
+const dobra = valor => valor * 2;
+
+let exemploDobra = dobra(10);
+console.log(exemploDobra);
 
 
 
