@@ -10,13 +10,8 @@ function converteMoeda(valor){
 
 let valorConvertido = converteMoeda(valorEmDolares);
 
-console.log(
-`Valor em dólares: ${valorEmDolares}`
-);
-
-console.log(
-`Valor em reais (convertido): ${valorConvertido}`
-);
+console.log(`Valor em dólares: ${valorEmDolares}`);
+console.log(`Valor em reais (convertido): ${valorConvertido}`);
 
 
 
