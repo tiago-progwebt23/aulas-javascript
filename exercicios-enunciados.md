@@ -4,7 +4,7 @@
 
 - Crie um arquivo chamado **exercicio02.html**.
 - A partir dele, faça um script chamado **exercicio02.js** (não se esqueça de usar a pasta `js`).
-- Programe no arquivo JS recursos que permitam converte um valor em dólar (ex: 1000 dólares) para um valor em reais.
+- Programe no arquivo JS recursos que permitam converter um valor em dólar (ex: 1000 dólares) para um valor em reais.
 
 Para esta atividade, você **deverá** criar uma função chamada `converteMoeda` e realizar dentro dela a operação de conversão.
 
